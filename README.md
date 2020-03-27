@@ -6,10 +6,10 @@ The most up-to-date JS resource online! Master Javascript by building a beautifu
 
 - Learn Javascript & ES6 Syntax
 
-### Personal Goal
+## Personal Goal
 
-[ ] Finish course by end of April
+- [ ] Finish course by end of April
 
-### Progress
+## Progress
 
 - Currently on Section 15 out of 34
